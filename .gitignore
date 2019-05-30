@@ -1,0 +1,10 @@
+# IDEA project files
+*.iml
+*.iws
+*.ipr
+.idea
+.idea/*
+
+# Other
+node
+node_modules
